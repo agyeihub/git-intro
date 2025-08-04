@@ -1,0 +1,6 @@
+body{
+    color: red;
+    font-size: larger;
+    display: grid;
+    place-content: center;
+}
